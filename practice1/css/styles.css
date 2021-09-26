@@ -1,0 +1,76 @@
+h1 {
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(86, 165, 218);
+    font-style: bold;
+    text-align: center
+}
+blockquote {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(92, 28, 129);
+    font-size: 16px;
+    text-align: center
+}
+.fall-road img{
+    float: middle; 
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    font-family: initial;
+    font-size: 24px;
+    color: rgb(92, 28, 129);
+    text-align: center;
+}
+.art-samples {
+    clear: both;
+}
+.art-samples img {
+    width: 300px;
+    float: inline-start;
+}
+h3{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(86, 165, 218);
+    font-style: bold;
+    text-align: left;
+}
+h4 {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(86, 165, 218);
+    font-style: bold;
+    text-align: left;
+}
+#main-nav	{
+	font-size: 24px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif	
+}
+#main-nav a,
+#main-nav a:visited {
+	text-decoration: none;
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active {
+	text-decoration: underline;
+}
+.external-nav {
+    font-size: 16px;
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif
+}
+.external-nav a,
+.external-nav a:visited {
+    text-decoration: none;
+}
+
+.external-nav a:hover,
+.external-nav a:focus,
+.external-nav a:active {
+    text-decoration: underline;
+}
